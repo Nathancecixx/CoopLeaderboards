@@ -1,0 +1,10 @@
+{
+    "Name": "Fishing Competition Mod",
+    "Author": "BigRed",
+    "Version": "0.0.1",
+    "Description": "A mod that adds a fishing competition to Stardew Valley.",
+    "UniqueID": "BigRed.FishingCompetitionMod",
+    "EntryDll": "CoopLeaderboards.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
